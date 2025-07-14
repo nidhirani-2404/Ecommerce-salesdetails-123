@@ -52,9 +52,9 @@ Designed to support strategic planning, marketing optimization, and operational 
 
 | File Name                 | Description                               |
 |--------------------------|-------------------------------------------|
-| ecommerce_dashboard.pbix` | Main Power BI dashboard file             |
-| Orders.xlsx`         | E-commerce sales data                     |
-| Details.xlsx`   | Customer demographic and behavioral data  |
+| Ecommerce_dashboard.pbix | Main Power BI dashboard file             |
+| Orders.xlsx         | E-commerce sales data                     |
+| Details.xlsx   | Customer demographic and behavioral data  |
 
 
 ---
